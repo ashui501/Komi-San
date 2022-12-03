@@ -1,4 +1,4 @@
-from nksama import bot, bot
+from nksama import bot, darbot
 import logging
 
 logging.basicConfig(
