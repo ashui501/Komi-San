@@ -12,7 +12,7 @@ logging.basicConfig(
 
 def main():
     bot.run()
-    bot.start()
+    darbot.start()
 
 
 if __name__ == "__main__":
