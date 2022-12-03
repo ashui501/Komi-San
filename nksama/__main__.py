@@ -1,4 +1,4 @@
-from nksama import bot, musicbot
+from nksama import bot, bot
 import logging
 
 logging.basicConfig(
@@ -12,8 +12,7 @@ logging.basicConfig(
 
 def main():
     bot.run()
-    musicbot.start()
-    bot.send_message(-1001544622735, "I'm Now online")
+    bot.start()
 
 
 if __name__ == "__main__":
