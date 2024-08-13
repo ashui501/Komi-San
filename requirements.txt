@@ -1,4 +1,4 @@
-pyrogram==2.0.93
+pyrogram
 gpytranslate==1.5.1
 tgcrypto==1.2.3
 requests==2.28.1
